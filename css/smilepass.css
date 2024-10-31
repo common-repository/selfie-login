@@ -1,0 +1,17 @@
+
+.camera-box-wrapper {
+    margin:0 0 30px;
+}
+
+.clearfix::after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.enrolled-img{
+	width:25%;
+	float:left;
+}
